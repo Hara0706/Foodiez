@@ -1,0 +1,70 @@
+/* Home Section  */
+#logo
+{
+   margin:0px -170px 0px 0px;
+}
+#item
+{
+    padding:0px 1px 0px 1px;
+}
+#navbar ul 
+{
+      
+      margin: 0px 30px 50px 220px;
+    
+}
+.btn
+{
+   margin: 0px 0px 100px 0px;
+}
+
+
+/* client-section */
+#client-section h1
+{
+   margin: 25px 0px 20px 200px;
+}
+#client2
+{
+   margin: 200px 40px 0px -600px;
+    
+}
+#client3
+{
+    margin: 200px 40px 0px 0px;
+    
+}
+#client4
+{
+    margin: 200px 40px 0px 0px;
+    
+}
+#client5
+{
+    margin: 200px 0px 0px 0px;
+    
+}
+
+
+
+
+/* Services Section  */
+#services-container
+{
+    
+    padding: 10px 10px 10px 5px;
+    
+}
+#services1
+{
+   margin:100px -20px 0px 180px;
+}
+#services2
+{
+   margin:30px 20px 0px 180px;
+}
+#services3
+{
+   margin:30px 50px 20px 180px;
+}
+
